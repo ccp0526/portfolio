@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/ccp0526",
   },
   aboutMe:
-    "I am a final-year Computer Science (Game Development) student at Multimedia University, passionate about crafting engaging gameplay mechanics, physics analysis, and interactive experiences.,
+    "I am a final-year Computer Science (Game Development) student at Multimedia University, passionate about crafting engaging gameplay mechanics, physics analysis, and interactive experiences.",
   skills: ["Unreal Engine 5", "Unity", "Laravel", "WordPress", "C++", "C#", "JAVA"],
   projects: [
     {
