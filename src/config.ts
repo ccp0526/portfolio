@@ -24,7 +24,7 @@ export const siteConfig = {
       name: "Shadow Chase",
       description:
         "A 2D top-down chasing game built in Unity featuring autonomous enemy AI. It utilizes an optimized A* pathfinding algorithm and FSM state machines to deliver responsive and intelligent pursuit behaviors.",
-      link: "#",
+      link: "https://youtu.be/324FBbhwtuI",
       skills: ["Unity", "C#", "A* Pathfinding", "FSM Machine"],
     },
     {
