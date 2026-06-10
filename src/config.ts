@@ -25,7 +25,7 @@ export const siteConfig = {
       description:
         "A 2D top-down chasing game built in Unity featuring autonomous enemy AI. It utilizes an optimized A* pathfinding algorithm and FSM state machines to deliver responsive and intelligent pursuit behaviors.",
       link: "#",
-      skills: ["Unity", "C#", "A8 Pathfinding", "FSM Machine"],
+      skills: ["Unity", "C#", "A* Pathfinding", "FSM Machine"],
     },
     {
       name: "Sword Soul (Ongoing)",
