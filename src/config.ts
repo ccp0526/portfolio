@@ -1,17 +1,17 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Cheong Chen Pui",
+  title: "Game Developer & CS Student",
+  description: "Portfolio of a Game Developer student",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
+    email: "chenpui11043@gmail.com",
     linkedin: "https://linkedin.com/in/yourprofile",
     twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    github: "https://github.com/ccp0526",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I am a final-year Computer Science (Game Development) student at Multimedia University, passionate about crafting engaging gameplay mechanics, physics analysis, and interactive experiences.,
+  skills: ["Unreal Engine 5", "Unity", "Laravel", "WordPress", "C++", "C#", "JAVA"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
