@@ -18,7 +18,7 @@ export const siteConfig = {
       description:
         "A 3D first-person puzzle game built in Unreal Engine 5 featuring a seamless 'Parallel World Switching' mechanic. The gameplay integrates a psychological dissociation narrative, allowing players to switch between two character to solve puzzles.",
       link: "#",
-      skills: ["Unreal Engine 5", "Blueprints", "OOP"],
+      skills: ["Unreal Engine 5", "Blueprints", "OOP", "Demo Video Comming Soon"],
     },
     {
       name: "Shadow Chase",
@@ -31,7 +31,7 @@ export const siteConfig = {
       name: "Sword Soul (Ongoing)",
       description:
         "A 2D top-down survival roguelite in Unreal Engine 5 blending movement-as-attack slingshot combat with bullet-time aiming. It features precise wall-ricochet physics and a dynamic roguelite growth system.",
-      link: "#",
+      link: "https://youtu.be/OVoVr4TD5_c",
       skills: ["Unreal Engine 5", "Game Physics", "State Machine"],
     },
   ],
