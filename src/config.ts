@@ -14,10 +14,10 @@ export const siteConfig = {
   skills: ["Unreal Engine 5", "Unity", "Laravel", "WordPress", "C++", "C#", "JAVA"],
   projects: [
     {
-      name: "Unisonce (Ongoing)",
+      name: "Unisonce",
       description:
         "A 3D first-person puzzle game built in Unreal Engine 5 featuring a seamless 'Parallel World Switching' mechanic. The gameplay integrates a psychological dissociation narrative, allowing players to switch between two character to solve puzzles.",
-      link: "#",
+      link: "https://youtu.be/Lv_cKilKFKE",
       skills: ["Unreal Engine 5", "Blueprints", "OOP", "Demo Video Comming Soon"],
     },
     {
