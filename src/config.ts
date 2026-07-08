@@ -31,7 +31,7 @@ export const siteConfig = {
       name: "Sword Soul (Ongoing)",
       description:
         "A 2D top-down survival roguelite in Unreal Engine 5 blending movement-as-attack slingshot combat with bullet-time aiming. It features precise wall-ricochet physics and a dynamic roguelite growth system.",
-      link: "https://youtu.be/OVoVr4TD5_c",
+      link: "https://youtu.be/RSUN8X4Gc-Y",
       skills: ["Unreal Engine 5", "Game Physics", "State Machine"],
     },
   ],
