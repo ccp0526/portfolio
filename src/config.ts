@@ -28,7 +28,7 @@ export const siteConfig = {
       skills: ["Unity", "C#", "A* Pathfinding", "FSM Machine"],
     },
     {
-      name: "Sword Soul (Ongoing)",
+      name: "Sword Soul",
       description:
         "A 2D top-down survival roguelite in Unreal Engine 5 blending movement-as-attack slingshot combat with bullet-time aiming. It features precise wall-ricochet physics and a dynamic roguelite growth system.",
       link: "https://youtu.be/RSUN8X4Gc-Y",
